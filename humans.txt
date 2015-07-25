@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Dean -- The dude that made this page -- @deanrex
+
+# THANKS
+
+    Amsterdam
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3,
+    jQuery, Modernizr, 
+    Foundation, Nginx
